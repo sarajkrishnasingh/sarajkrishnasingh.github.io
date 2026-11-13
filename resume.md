@@ -6,8 +6,6 @@
 
 > Infrastructure should empower developers, not block them.
 
-*Note: This is a fictional test profile. Names, dates, and experience are illustrative.*
-
 ---
 
 ## Summary
