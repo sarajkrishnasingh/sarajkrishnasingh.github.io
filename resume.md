@@ -123,5 +123,3 @@ Helm-packaged Prometheus, Grafana, and OpenTelemetry tooling used to monitor Ope
 - Contributor to multiple CNCF and Linux Foundation projects
 
 ---
-
-*Note: This is a fictional test profile. Names, dates, and experience are illustrative.*
