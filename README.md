@@ -2,8 +2,6 @@
 
 Personal website and résumé for **Saraj Krishna Singh**, served at [https://sarajkrishnasingh.github.io](https://sarajkrishnasingh.github.io).
 
-> Note: This is a fictional test profile. Names, dates, and experience are illustrative.
-
 ## What’s in this repo
 
 - `index.html` — home page (about, experience, skills, projects, socials)
