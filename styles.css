@@ -50,18 +50,6 @@ a:focus-visible, button:focus-visible {
 }
 .skip:focus { top: 0.5rem; }
 
-/* Fiction note — visible, not shouting */
-.fiction-note {
-  background: var(--banner);
-  color: #4a453c;
-  font-size: 0.8125rem;
-  letter-spacing: 0.01em;
-  text-align: center;
-  padding: 0.55rem 1.25rem;
-  border-bottom: 1px solid var(--line);
-}
-.fiction-note em { font-style: italic; }
-
 header.site-header {
   background: var(--header);
   color: var(--header-ink);
@@ -416,8 +404,8 @@ body.resume-page { background: #f3efe6; }
 }
 
 @media print {
-  .fiction-note, header.site-header, .resume-actions, footer.site-footer { }
-  .fiction-note { border: 1px solid #ccc; }
+  header.site-header, .resume-actions, footer.site-footer { }
+
   header.site-header, .resume-actions { display: none; }
   body.resume-page { background: #fff; }
   .resume-sheet {
